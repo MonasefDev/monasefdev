@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=50&duration=2000&pause=1000&color=8DF71D&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+Github!+;I+am+front-end+web+developer.;Life+is+up+and+down+for+everyone.;Cheer+up!;Eyes+up!;Try+Everything+and+Reach+your+Goal!" alt="Typing SVG" /></a>
+
 <h1 align="center">Hi 👋, I'm Abdelkarim MONASEF</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" alt="snake" style="max-width: 100%;">
